@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  height: 50px;
+  margin-top: 0px;
+  margin-left: 1px;
+  width: auto;
+  background-color: #ffce76;
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.glass {
+  font-size: 25px;
+  margin-bottom: 9000px;
+}
+
+.table {
+  bottom: 200px;
+  margin-left: 1100px;
+  margin-bottom: 300px;
+}
+
+.contact {
+  font-size: 35px;
+}
+
+.Thanks {
+  font-size: 35px;
+  margin-left: 20px;
+}
+
+.us {
+  font-size: 50px;
+}
+
+.Game001 {
+  background-color: ;
+  border: 10px;
+  padding: 20px;
+  width: 600px;
+  height: 600px;
+  margin-left: 1000px;
+  border-style: solid;
+}
+
+.Img001 {
+  margin-bottom: 30px;
+}
+
+.ref {
+  font-size: 50px;
+}
